@@ -1,4 +1,4 @@
-Hackaton-Host.js
+Hackathon-Host.js
 ================
 
-A quick and easy server for hosting a Hackathon and common requirements such as registration. 
+> A quick and easy server for hosting a Hackathon and common requirements such as registration. 
